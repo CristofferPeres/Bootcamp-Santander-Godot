@@ -1,1 +1,1 @@
-link do ithc.io https://mancao-studios.itch.io/cut-knight
+link do itch.io https://mancao-studios.itch.io/cut-knight
